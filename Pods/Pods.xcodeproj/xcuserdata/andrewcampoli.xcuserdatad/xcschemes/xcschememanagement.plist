@@ -4,20 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>prototype-search-master.xcscheme</key>
+		<key>Pods-prototype-search-master-pop.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-prototype-search-master.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>19E53AC51B1A6002005190F6</key>
+		<key>1CF5BFB7B51C58E80EC90B7A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>19E53ADA1B1A6002005190F6</key>
+		<key>C5EC4591E118B4D45AE2D89D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
